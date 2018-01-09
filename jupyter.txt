@@ -1,3 +1,5 @@
 Notes about jupyter
 
 It sucks!
+
+edited by Tom
